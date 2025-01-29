@@ -54,6 +54,12 @@ export const config = {
 ],
     projects: [
         {
+            name: "3D Zoo",
+            description: "This is a Zoo made with the help of React Three Fiber and React Three Drei.",
+            image: "projects/Zoo.png",
+            link: "https://github.com/SaadZiaatharKhan/Zoo"
+        },
+        {
             name: "CareConnect",
             description: "An emergency alert system designed to assist senior citizens living alone in connecting with nearby nurses",
             image: "projects/CareConnect.png",
@@ -71,18 +77,13 @@ export const config = {
             image: "projects/PlantDoc.png",
             link: "https://www.youtube.com/watch?v=yMERHD2QKTg"
         },
-        {
-            name: "Hostel Management System",
-            description: "This system aims to streamline the management of student accommodation in a hostel environment",
-            image: "projects/HMS.png",
-            link: "https://github.com/SaadZiaatharKhan/Hostel-Management-System"
-        }
     ],
     contact: {
         name: "Saad Khan",
         address: "Pune, India",
         socials: {
-            linkedin: "www.linkedin.com/in/saad-khan-468a9728b",
+            linkedin: "https://www.linkedin.com/in/saad-khan-468a9728b/",
+            github: "https://github.com/SaadZiaatharKhan"
         },
         mail: "saadziaatharkhan@gmail.com"
     }

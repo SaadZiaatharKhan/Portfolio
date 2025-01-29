@@ -1,6 +1,6 @@
 export const Menu = () => {
     return (
-        <div className="menu">
+        <div className="menu" >
             {/* <img src="saad_logo.png" alt="logo" className="menu__logo"/> */}
             <div className="menu__buttons">
                 <a className="menu__button" href="#home">
