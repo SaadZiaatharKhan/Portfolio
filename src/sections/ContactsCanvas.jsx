@@ -3,7 +3,7 @@ import React from "react";
 import { Astronaut } from "../components/Astronaut";
 import HolographicDevice from "../components/HolographicDevice";
 import Github from "../../public/images/Contacts/Github.svg";
-import Linkedin from "../../public/images/Contacts/Linkedin.svg";
+import Linkedin from "../../public/images/Contacts/LinkedIn.svg";
 import Gmail from "../../public/images/Contacts/Gmail.svg";
 
 const ContactsCanvas = () => {
