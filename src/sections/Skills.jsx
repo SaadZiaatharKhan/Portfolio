@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import { useFrame } from "@react-three/fiber";
-import { PurplePlanet } from "../components/purpleplanet";
+import { PurplePlanet } from "../components/PurplePlanet";
 import OrbitingCards from "../components/OrbitingCard";
 import { Stars } from "@react-three/drei";
 
